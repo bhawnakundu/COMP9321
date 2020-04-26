@@ -9,6 +9,6 @@ Quiz 3 : 10/10
 Assignments
 
 Assignment 1 : 15/15
-Assignment 2 : 15/15
+Assignment 2 : 14/15
 
 
